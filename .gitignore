@@ -1,0 +1,6 @@
+/bin/
+/termdoc
+/termdoc.exe
+*.test
+*.out
+.DS_Store
